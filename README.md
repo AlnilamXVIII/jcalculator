@@ -1,5 +1,5 @@
 # jcalculator
- Basic calculator built in Java.<br>
+ Basic calculator built in Java, on IntelliJ IDEA.<br>
  
 User chooses what function they would like to perform by typing in either; 1,2,3,4 or 5.<br>
 1=Add, 2=Subtract, 3=Divide, 4=Multiply or 5=Exit the program.<br>
